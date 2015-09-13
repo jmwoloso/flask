@@ -1,0 +1,6 @@
+[submodule "flasky"]
+	path = flasky
+	url = https://github.com/miguelgrinberg/flasky.git
+[submodule "microblog"]
+	path = microblog
+	url = https://github.com/miguelgrinberg/microblog.git
